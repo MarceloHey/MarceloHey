@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **React, Angular and Web perfomance techniques**
+- 🌱 **Always learning new stuff**
 
 - 📫 How to reach me **marcelotoniolo.h@gmail.com**
 
